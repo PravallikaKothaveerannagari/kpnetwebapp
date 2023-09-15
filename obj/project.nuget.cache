@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KyYrz6OTWSz1XvVLzwi3xnJMuNYs+Fenxb2/kPFgKWImwnFGqLP3fz0/I2Q8C0Y0GovVjIUJNXkCJyqeMwXQLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-pkothaveer\\Source\\Repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\v-pkothaveer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
